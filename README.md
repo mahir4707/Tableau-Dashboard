@@ -1,4 +1,4 @@
-# 🎬 IMDB Movies Interactive Dashboard (1920–2020) - Tableau Project
+<img width="1400" height="800" alt="image" src="https://github.com/user-attachments/assets/19a8b9c5-e961-44d9-9947-634e0f627b62" /># 🎬 IMDB Movies Interactive Dashboard (1920–2020) - Tableau Project
 
 ## 📌 Project Overview
 This Tableau project visualizes data from IMDB movies released between **1920 and 2020**, showcasing insights into trends, performance, and popularity metrics across the film industry. The dashboard is built to be fully **interactive**, **filter-responsive**, and **user-friendly**, adopting an IMDB-inspired color theme (Yellow & Black).
@@ -49,15 +49,10 @@ This Tableau project visualizes data from IMDB movies released between **1920 an
 - UI/UX in BI Tools
 - Problem-Solving & Iterative Building
 
-## 📎 Live Demo / Dashboard Link
-*(Add Tableau Public link here if published)*  
-[View Dashboard on Tableau Public](#)
+## 📊 Live Dashboard
 
-## 👤 Author
-**Mahir Sama**  
-[🔗 LinkedIn Profile](#)  
-[🔗 GitHub Profile](#)
+➡️ [Click here to view the interactive IMDB Dashboard on Tableau Public]([https://public.tableau.com/views/YourDashboardName/...](https://public.tableau.com/app/profile/mahir.sama/viz/IMDB_movies_Dashboard/IMDbMoviesdashboard?publish=yes))
 
-## 📄 License
-This project is for educational and portfolio use. All rights to IMDB logo and data belong to their respective owners.
+Thank Yu!!!!
+Don't forget to give feedback!! 
 
