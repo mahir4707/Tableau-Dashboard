@@ -1,4 +1,4 @@
-<img width="1400" height="800" alt="image" src="https://github.com/user-attachments/assets/19a8b9c5-e961-44d9-9947-634e0f627b62" /># 🎬 IMDB Movies Interactive Dashboard (1920–2020) - Tableau Project
+
 
 ## 📌 Project Overview
 This Tableau project visualizes data from IMDB movies released between **1920 and 2020**, showcasing insights into trends, performance, and popularity metrics across the film industry. The dashboard is built to be fully **interactive**, **filter-responsive**, and **user-friendly**, adopting an IMDB-inspired color theme (Yellow & Black).
