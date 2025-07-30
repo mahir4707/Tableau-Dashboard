@@ -51,7 +51,7 @@ This Tableau project visualizes data from IMDB movies released between **1920 an
 
 ## 📊 Live Dashboard
 
-➡️ [Click here to view the interactive IMDB Dashboard on Tableau Public]([https://public.tableau.com/views/YourDashboardName/...](https://public.tableau.com/app/profile/mahir.sama/viz/IMDB_movies_Dashboard/IMDbMoviesdashboard?publish=yes))
+➡️ [Click here to view the interactive IMDB Dashboard on Tableau Public](https://public.tableau.com/app/profile/mahir.sama/viz/IMDB_movies_Dashboard/IMDbMoviesdashboard?publish=yes))
 
 Thank Yu!!!!
 Don't forget to give feedback!! 
